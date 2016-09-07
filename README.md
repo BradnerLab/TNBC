@@ -1,5 +1,5 @@
 # TNBC
-code related to Shu et al., 2015
+code related to Shu et al., 2016
 
 tnbc_pipeline_scripts.py contains all python scripts for data analysis in Shu et al., 2016
 
