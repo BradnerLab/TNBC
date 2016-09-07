@@ -1,0 +1,9 @@
+sample_id	file	total_mass	internal_scale	external_scale
+SUM149_DMSO_12H_R_0	/grail/projects/TNBC_rerun/cufflinks/SUM149_DMSO_12H_R1/abundances.cxb	4.49679e+07	1.2065	1
+SUM149_DMSO_12H_R_1	/grail/projects/TNBC_rerun/cufflinks/SUM149_DMSO_12H_R2/abundances.cxb	3.09771e+07	0.83347	1
+SUM149_JQ1_12H_R_0	/grail/projects/TNBC_rerun/cufflinks/SUM149_JQ1_12H_R1/abundances.cxb	3.53921e+07	0.939676	1
+SUM149_JQ1_12H_R_1	/grail/projects/TNBC_rerun/cufflinks/SUM149_JQ1_12H_R2/abundances.cxb	3.74057e+07	0.980499	1
+SUM149R_DMSO_12H_R_0	/grail/projects/TNBC_rerun/cufflinks/SUM149R_DMSO_12H_R1/abundances.cxb	4.33197e+07	1.10432	1
+SUM149R_DMSO_12H_R_1	/grail/projects/TNBC_rerun/cufflinks/SUM149R_DMSO_12H_R2/abundances.cxb	4.06898e+07	1.0554	1
+SUM149R_JQ1_12H_R_0	/grail/projects/TNBC_rerun/cufflinks/SUM149R_JQ1_12H_R1/abundances.cxb	4.29557e+07	1.0696	1
+SUM149R_JQ1_12H_R_1	/grail/projects/TNBC_rerun/cufflinks/SUM149R_JQ1_12H_R2/abundances.cxb	3.52394e+07	0.881553	1

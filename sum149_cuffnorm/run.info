@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffnorm -p 4 -o /grail/projects/TNBC_rerun/cufflinks/sum149_cuffnorm/ -L SUM149_DMSO_12H_R,SUM149_JQ1_12H_R,SUM149R_DMSO_12H_R,SUM149R_JQ1_12H_R /raider/index/hg19/GeneGTF/genes.gtf /grail/projects/TNBC_rerun/cufflinks/SUM149_DMSO_12H_R1/abundances.cxb,/grail/projects/TNBC_rerun/cufflinks/SUM149_DMSO_12H_R2/abundances.cxb /grail/projects/TNBC_rerun/cufflinks/SUM149_JQ1_12H_R1/abundances.cxb,/grail/projects/TNBC_rerun/cufflinks/SUM149_JQ1_12H_R2/abundances.cxb /grail/projects/TNBC_rerun/cufflinks/SUM149R_DMSO_12H_R1/abundances.cxb,/grail/projects/TNBC_rerun/cufflinks/SUM149R_DMSO_12H_R2/abundances.cxb /grail/projects/TNBC_rerun/cufflinks/SUM149R_JQ1_12H_R1/abundances.cxb,/grail/projects/TNBC_rerun/cufflinks/SUM149R_JQ1_12H_R2/abundances.cxb 
+version	2.2.0
+SVN_revision	4223
+boost_version	104700
